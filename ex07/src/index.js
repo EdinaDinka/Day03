@@ -1,6 +1,6 @@
 function main () {
 
-    var studyCapVar;
+    var studlyCapVar;
     var properCamelCase;
     var titleCaseOver;
     
